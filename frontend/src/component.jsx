@@ -3,7 +3,7 @@ import React from 'react'
 export default function component() {
     return (
         <div>
-            <p>This is an component</p>
+            <p>good component</p>
         </div>
     )
 }
